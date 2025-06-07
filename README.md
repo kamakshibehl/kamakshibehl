@@ -11,11 +11,10 @@
 
 ## I'm a Software Engineer!!
 
-- 🎰 Check out my latest project on real time end-to-end encrypted chat application. [Live](https://example.com)
+- 🎰 Check out my latest project on real time end-to-end encrypted chat application.
 - 🤝 I’m looking to collaborate with other developers and AI/ML enthusiasts.
 - 🎯 I’m currently diving deep into distributed systems and secure scalable applications.
-- 🏆 Won 2nd prize in the Optum(UHG) Hackathon for developing an Augmented Reality(AR) application to help patients with ASD (Autism Spectrum Disorder) [Github](https://example.com)
-
+- 🏆 Won 2nd prize in the Optum(UHG) Hackathon for developing an Augmented Reality(AR) application to help patients with ASD (Autism Spectrum Disorder)
 
 ### Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/kamakshi%E2%80%93behl-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/kamakshi-behl/)][linkedin]
