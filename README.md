@@ -14,17 +14,10 @@
 - 🎰 Check out my latest project on real time end-to-end encrypted chat application. [Live](https://example.com)
 - 🤝 I’m looking to collaborate with other developers and AI/ML enthusiasts.
 - 🎯 I’m currently diving deep into distributed systems and secure scalable applications.
-- 📜 I've recently submitted a patent on contextually aware debiasing algorithms: US Patent Application.
 - 🏆 Won 2nd prize in the Optum(UHG) Hackathon for developing an Augmented Reality(AR) application to help patients with ASD (Autism Spectrum Disorder) [Github](https://example.com)
-<!-- - 🧠 Fun fact: I love playing chess and have a keen interest in developing real-time applications. -->
-<!-- - 🌐 I’m currently diving deep into web3 and blockchain technology. -->
 
 
 ### Connect with me:
-<!-- [![Website Badge](https://img.shields.io/badge/-0A66C2.svg?style=for-the-badge&logo=website&logoColor=white&link=https%3A%2F%2F)][website]
-&nbsp;&nbsp; -->
-<!-- [![Twitter Badge](https://img.shields.io/badge/-@-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)][twitter] -->
-<!-- &nbsp;&nbsp; -->
 [![Linkedin Badge](https://img.shields.io/badge/kamakshi%E2%80%93behl-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/kamakshi-behl/)][linkedin]
 &nbsp;&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/kamakshi_behl-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/kamakshi_behl)][instagram]
@@ -61,14 +54,6 @@
 <img align="left" alt="Redis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" style="padding-right:10px;" title="Redis" />
 <img align="left" alt="Elasticsearch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" style="padding-right:10px;" title="Elasticsearch" />
 <img align="left" alt="Parallel Programming" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" title="Parallel Programming" />
-
-<br />
-
-### AI/ML:
-<img align="left" alt="Deep Learning" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" title="Deep Learning, NLP" />
-<img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" title="TensorFlow" />
-<img align="left" alt="Keras" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" style="padding-right:10px;" title="Keras" />
-<img align="left" alt="PyTorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" title="PyTorch" />
 
 <br />
 
